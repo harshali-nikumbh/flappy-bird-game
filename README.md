@@ -70,6 +70,8 @@ flappy-bird-game/
 **Harshali Nikumbh**
 
 - GitHub: https://github.com/harshali-nikumbh
-- LinkedIn: https://linkedin.com/in/harshali-nikumbh
+- LinkedIn: [https://linkedin.com/in/harshali-nikumbh](https://www.linkedin.com/in/harshali-nikumbh-964465326/
+
+)
 
 ⭐ If you like this project, consider giving it a star.
